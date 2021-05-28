@@ -1,0 +1,10 @@
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\bin\Debug\Praktica.exe.config
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\bin\Debug\Praktica.exe
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\bin\Debug\Praktica.pdb
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.csprojAssemblyReference.cache
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.Form1.resources
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.Properties.Resources.resources
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.csproj.GenerateResource.cache
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.csproj.CoreCompileInputs.cache
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.exe
+C:\Users\gitko\Desktop\learning\Данил учеба\Praktica\Praktica\obj\Debug\Praktica.pdb
